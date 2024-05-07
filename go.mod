@@ -1,4 +1,4 @@
-module github.com/A-pen-app/logging
+module github.com/cyoyu/logging
 
 go 1.20
 
